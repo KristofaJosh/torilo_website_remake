@@ -2,8 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="948bcff9-62ac-477b-a951-f033ce246881" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/web/components/elements/button/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/web/components/elements/hamburger/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/web/components/elements/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/web/components/elements/input/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/web/components/elements/typography/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/web/components/molecules/headers/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/web/components/sections/aboutus/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/web/components/sections/contactform/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/web/components/sections/footer/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/web/components/sections/hero/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/web/components/sections/services/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/web/components/sections/whytorilo/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/web/constants/colors/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/web/constants/data/contact_address.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/web/constants/data/services.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/web/constants/data/why_torilo.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/web/constants/fontsizes/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/web/constants/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/web/views/aboutUs_page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/web/views/cookie_page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/web/views/terms_page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/web/views/whyUs_page.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +56,26 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs.protractor.protractor_package" value="" />
+    <property name="ts.external.directory.path" value="C:\Users\Chris Josh\Desktop\Torilo\torilo\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Chris Josh\Desktop\Torilo\torilo\public\assets\images" />
+      <recent name="C:\Users\Chris Josh\Desktop\Torilo\torilo\src\web\components\elements" />
+      <recent name="C:\Users\Chris Josh\Desktop\Torilo\torilo\src\web\components" />
+      <recent name="C:\Users\Chris Josh\Desktop\Torilo\torilo\src\test" />
+      <recent name="C:\Users\Chris Josh\Desktop\Torilo\torilo\src\styles" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="js.build_tools.gulp">
@@ -47,11 +98,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595423941588</updated>
-      <workItem from="1595423966396" duration="185000" />
+      <workItem from="1595423966396" duration="69407000" />
+      <workItem from="1595533533984" duration="16290000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="198" key="#ESLint" timestamp="1595425218688">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="198" key="#ESLint/0.0.1920.1080@0.0.1920.1080" timestamp="1595425218688" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1595546440508">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1595546440508" />
   </component>
 </project>
